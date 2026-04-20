@@ -31,7 +31,7 @@ Heat Transfer Coefficients (HTC) are updated dynamically based on film temperatu
 ### The 10-Minute Simulation Logic
 The core achievement of this project was reducing a multi-day simulation into a **10-minute runtime** using a physics-based iteration loop.
 
-![Iterative Energy balance used to update LN2 temp by enthalpy update](Iterative_Energy_balance_used_to_update_LN2_temp_by_enthalpy_update.png)
+![Iterative Energy balance used to update LN2 temp by updating enthalpy](Iterative_Energy_balance_used_to_update_LN2_temp_by_enthalpy_update.png)
 
 *The logic utilizes an energy balance and enthalpy update system to track LN2 temperature states without the computational overhead of a full fluid-node solver.*
 
