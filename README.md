@@ -66,7 +66,7 @@ By comparing the simulation’s heat flow results with literature-standard boili
 - **Primary Axis ($Y1$):** Transient heat flow ($W$) showing the stabilization of the cryogenic loop.
 - **Secondary Axis ($Y2$):** Temperature profile ($K$) tracking the surface-to-fluid gradient.
 
-![Simulated full cylce compared with experimental data](PID_CONTROL_FULL_CYCLE_PANEL_temp.png)
+![Simulated full cylce compared with experimental data](PID_CONTROL_FULL_CYCLE_PANEL_Temp.png)
 
 *The high degree of correlation between the derived heat flow and established physical benchmarks confirms the Digital Twin's reliability for predicting chamber performance during high-load scenarios.*
 ---
