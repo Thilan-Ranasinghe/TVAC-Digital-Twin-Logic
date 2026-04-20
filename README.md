@@ -53,6 +53,21 @@ After modeling the control strategies for heating and cooling separately, the mo
 ![Full Integration Logic](Integration_of_Heating_and_Cooling_Strategy.png)
 
 *The integrated logic manages the transition between PID-controlled cooling and protected heating cycles, representing the complete automated Digital Twin workflow.*
+
+## 6. Model Validation & Correlation
+A critical phase of the thesis was validating the simulated heat flux against established literature and experimental data.
+
+### Physics Validation
+By comparing the simulation’s heat flow results with literature-standard boiling curves ($W/m^2$ vs. $\Delta T$), the model's ability to capture the transition from nucleate to film boiling was verified.
+
+![Literature vs simulation Comparison of heat flows](comparison_heat_flux_vs_temp_liter.png)
+
+
+### Correlation Results
+- **Primary Axis ($Y1$):** Transient heat flow ($W$) showing the stabilization of the cryogenic loop.
+- **Secondary Axis ($Y2$):** Temperature profile ($K$) tracking the surface-to-fluid gradient.
+
+*The high degree of correlation between the derived heat flow and established physical benchmarks confirms the Digital Twin's reliability for predicting chamber performance during high-load scenarios.*
 ---
 
 ## Technical Tooling
