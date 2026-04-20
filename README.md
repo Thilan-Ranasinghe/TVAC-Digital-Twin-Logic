@@ -46,6 +46,13 @@ Industrial TVAC operations require strict safety protocols to protect vacuum pan
 
 *These interlocks ensure the system operates within safe structural limits during rapid heating and cooling cycles.*
 
+## 5. Final Integration of Cooling and Heating Phases
+
+After modeling the control strategies for heating and cooling separately, the models were integrated into a fully automated system. This ensures a seamless transition between thermal extremes during the satellite component testing cycle.
+
+![Full Integration Logic](Integration_of_Heating_and_Cooling_Strategy.png)
+
+*The integrated logic manages the transition between PID-controlled cooling and protected heating cycles, representing the complete automated Digital Twin workflow.*
 ---
 
 ## Technical Tooling
