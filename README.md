@@ -58,6 +58,6 @@ After modeling the control strategies for heating and cooling separately, the mo
 ## Technical Tooling
 - **Simulation:** ESATAN-TMS
 - **Logic Design:** Fortran, LaTeX (TikZ for flowcharts)
-- **Data Analysis:** Python (NumPy, Matplotlib)
+- **Data Analysis:** Python (NumPy, Matplotlib), Matlab
 
 *Note: This work was conducted as part of a Bachelor’s Thesis at SpaceTech GmbH in collaboration with the Technical University of Munich (TUM).*
