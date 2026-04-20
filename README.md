@@ -31,7 +31,7 @@ Heat Transfer Coefficients (HTC) are updated dynamically based on film temperatu
 ### The 10-Minute Simulation Logic
 The core achievement of this project was reducing a multi-day simulation into a **10-minute runtime** using a physics-based iteration loop.
 
-![Iterative Energy balance used to update LN2 temp by updating enthalpy](Iterative_Energy_balance_used_to_update_LN2_temp_by_enthalpy_update.png)
+![Iterative Energy balance used to update LN2 temp by updating enthalpy](Energy_balance_update.png)
 
 *The logic utilizes an energy balance and enthalpy update system to track LN2 temperature states without the computational overhead of a full fluid-node solver.*
 
@@ -42,7 +42,7 @@ The core achievement of this project was reducing a multi-day simulation into a 
 Industrial TVAC operations require strict safety protocols to protect vacuum panels and heater wires from thermal shock.
 
 ![PID Control Flowchart_valve](Cooling_Valve_PID_control_logic.png)
-![Heater Wire Dual Function in heating and cooling phase (Control Strategy)](Heater_Wire_Dual_Function_in_heating_and_cooling_phase_(Control_Strategy).png)
+![Heater Wire Dual Function in heating and cooling phase (Control Strategy)](Heater_wire_heating_cooling_logic.png)
 
 *These interlocks ensure the system operates within safe structural limits during rapid heating and cooling cycles.*
 
