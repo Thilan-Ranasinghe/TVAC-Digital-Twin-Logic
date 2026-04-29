@@ -3,6 +3,16 @@
 ## Overview
 This repository contains the logical architecture and physical models developed for a **Digital Twin** of a Cryogenic Thermal Vacuum (TVAC) chamber. The goal was to optimize simulation performance while maintaining high-fidelity model-to-test correlation for solar array testing. Work is in progress. Logic and methodology developed as part of a current B.Sc. Thesis at TUM/SpaceTech. Specific proprietary data has been redacted.
 
+
+---
+
+## Overview workflow of the model.
+### Start to End model development workflow
+
+![Nitrogen P-h Curve](Bell_dome_P_H_validation.png)
+
+
+---
 ---
 
 ## 1. Thermo-Physical Foundations
