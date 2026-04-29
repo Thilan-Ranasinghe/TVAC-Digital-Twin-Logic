@@ -9,7 +9,7 @@ This repository contains the logical architecture and physical models developed 
 ## Overview workflow of the model.
 ### Start to End model development workflow
 
-![Nitrogen P-h Curve](Bell_dome_P_H_validation.png)
+![Work Flow of the Model](work.png)
 
 
 ---
