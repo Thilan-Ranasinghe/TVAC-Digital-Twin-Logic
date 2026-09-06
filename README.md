@@ -1,4 +1,4 @@
-# TVAC Digital Twin: Systems Logic & Thermal Architecture 🛰️
+# TVAC Predictive Model: Systems Logic & Thermal Architecture 🛰️
 
 ## Overview
 This repository contains the logical architecture and physical models developed for a **Predictive Model** of a Cryogenic Thermal Vacuum (TVAC) chamber. The goal was to optimize simulation performance while maintaining high-fidelity model-to-test correlation for solar array testing. Work is in progress. Logic and methodology developed as part of the B.Sc. Thesis calloborated with Technical University of Munich and SpaceTech GmbH. Specific proprietary data has been redacted.
